@@ -54,3 +54,6 @@ $ git clone [https://github.com/SEU-USUARIO/Flappy_Mario.git](https://github.com
 $ cd Flappy_Mario
 
 # Abra o index.html no navegador
+```
+
+<div align="center"> <p>Desenvolvido por <a href="https://www.linkedin.com/in/guilhermematheusdasilva">Guilherme Matheus da Silva</a> 👾</p> </div>
